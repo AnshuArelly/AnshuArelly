@@ -25,7 +25,7 @@ Improving my full‑stack architecture and debugging skills.
 Frontend basics, APIs, JavaScript, or getting started with full‑stack development.
 
 ### 📫 How to reach me  
-**Email:** anshu.arelly03@gmail.com  
+**Email:** anshu.arelly17@gmail.com  
 **LinkedIn:** linkedin.com/in/anshuarelly  
 
 ### ⚡ Fun fact  
